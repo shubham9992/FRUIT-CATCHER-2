@@ -12,6 +12,7 @@ var fruitGroup;
 var fruit1_img, fruit2_img, fruit3_img, fruit4_img, fruit5_img;
 var player_img;
 // create the variables for the score and displaying scores. and intialize with zero
+var score1=0,score2=0;
 
 function preload(){
   back_img = loadImage("images/jungle.jpg");
